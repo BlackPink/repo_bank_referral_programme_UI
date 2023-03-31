@@ -1,0 +1,19 @@
+mat-form-field{
+    width: 100%;
+}
+
+.field-spacer {
+  flex: 0 0.01;
+}
+
+.card-title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  background-color: #3f51b5;
+}
+
+.disable-clickable{
+    pointer-events: none;
+    width: 10vw;
+    justify-content: start;
+}
